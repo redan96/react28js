@@ -1,0 +1,34 @@
+.navbar {
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: auto;
+
+}
+
+.Links {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: auto;
+
+    .logo {
+        margin: 0px 20px;
+        width: 50%;
+    
+    }
+
+    .option {
+        display:flex;
+        margin: 5px 15px;
+        padding: 0 10px;
+        border: 3px;
+    }
+
+    .btn {
+        margin: auto;
+        border-radius: 50px;
+    }
+}
+

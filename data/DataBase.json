@@ -1,0 +1,38 @@
+{
+  "blogs": [
+    {
+      "image": "https://miro.medium.com/v2/resize:fill:200:134/0*dZJ-oQFBgymsAleq",
+      "title": "18 Life lessons I'd give my 18yo self",
+      "author": "Richard Gingras",
+      "body": "Dating, success, making friends...",
+      "id": 1
+    },
+    {
+      "image": "https://miro.medium.com/v2/resize:fill:200:134/0*5hJgvT1vt6PZRMd3",
+      "title": "Earthworms and Anhedonia",
+      "author": "Meredith Rofriguez",
+      "body": "Musings on a musical haunting",
+      "id": 2
+    },
+    {
+      "image": "https://miro.medium.com/v2/resize:fill:200:134/1*VbCkG39Xi9-yQF8rRUVJWQ.jpeg",
+      "title": "Under the Cedar Tree",
+      "author": "Caroline Mellor",
+      "body": "Prose Poetry",
+      "id": 3
+    },
+    {
+      "image": "https://miro.medium.com/v2/resize:fill:200:134/1*ArPuNJFT76seq_Wmo-cJYg.png",
+      "title": "On complexity and Monoliths",
+      "author": "Mikael Vesavuori",
+      "body": "Putting microservices in a realistic light...", 
+      "id": 4
+    },
+    {
+      "title": "tnrtnrtnr",
+      "body": "qfawfawawd",
+      "author": "author1",
+      "id": 5
+    }
+  ]
+}
