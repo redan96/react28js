@@ -2,6 +2,7 @@ import {BrowserRouter, Routes, Route } from "react-router-dom";
 import MainLayout from './layouts/MainLayout';
 import Home from "./pages/MainPage/Home"
 import Post from "./pages/CreatePage/CreatePost";
+import Viewer from "./pages/ViewPost/Viewer";
 
 function App() {
   return (
@@ -11,6 +12,8 @@ function App() {
           <Route index element={<Home/>} />
         </Route>
         <Route path="/Post" element={<Post/>}>
+        </Route>
+        <Route path="/Viewer" element={<Viewer/>}>
         </Route>
       </Routes>
     </BrowserRouter>

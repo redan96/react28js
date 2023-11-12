@@ -2,7 +2,7 @@
     position: fixed;
     display: flex;
     flex-direction: row;
-    width: 100%;
+    width: 100vw;
     height: auto;
 
 }
@@ -19,12 +19,12 @@
     
     }
 
-    .option {
-        display:flex;
-        margin: 5px 15px;
-        padding: 0 10px;
-        border: 3px;
-    }
+    // . {
+    //     display:flex;
+    //     margin: 5px 15px;
+    //     padding: 0 10px;
+    //     border: 3px;
+    // }
 
     .btn {
         margin: auto;

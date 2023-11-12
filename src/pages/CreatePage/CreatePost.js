@@ -26,7 +26,7 @@ export default function CreatePost() {
     }
 
     return(
-        <div className="container">
+        <div className="create-container">
             <Navbar/>
             <div className="form-container">
             <form onSubmit={handleSubmit} className="form-group">
