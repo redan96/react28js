@@ -1,18 +1,8 @@
 import React from "react";
-import Home from "../../pages/MainPage/Home"
-import Create from "../../pages/CreatePage/CreatePost"
 import "./navbar.scss"
 import { Link } from "react-router-dom";
 
 export default function Navbar() {
-
-    const handleCreate =()=>{
-
-    }
-
-    const handleHome =()=>{
-
-    }
 
     return(
         <nav className="navbar text-bg-warning">
